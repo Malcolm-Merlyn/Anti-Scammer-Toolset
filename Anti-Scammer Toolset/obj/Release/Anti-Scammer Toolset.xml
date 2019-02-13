@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Anti-Scammer Toolset
+</name>
+</assembly>
+<members>
+<member name="T:Anti_Scammer_Toolset.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.CThun">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.CtrlAltHillary">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Level0_Scammer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Level1_Scammer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Level10_Scammer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Level5_Scammer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Malcolm_Merlyn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Merlyn_0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Merlyn_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.MerlynGlobalLogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.NuclearWarningRed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.NuclearWarningYellow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Subscribe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Subscribe_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Trump_Firewall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Trump_HardwareCheck">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Trump_RemoveViruses">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Trump_Scan">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Trump_SoftwareCheck">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Trump_SpywareCheck">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Trump_TrojanCheck">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Trump_Update">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Trump_UpgradeComputer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Trump_VirusesFound">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Anti_Scammer_Toolset.My.Resources.Resources.Windows93Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

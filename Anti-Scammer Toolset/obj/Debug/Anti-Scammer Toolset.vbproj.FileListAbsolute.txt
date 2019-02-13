@@ -1,0 +1,12 @@
+c:\users\miodrag\documents\visual studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\bin\Debug\Anti-Scammer Toolset.exe
+c:\users\miodrag\documents\visual studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\bin\Debug\Anti-Scammer Toolset.pdb
+c:\users\miodrag\documents\visual studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\bin\Debug\Anti-Scammer Toolset.xml
+c:\users\miodrag\documents\visual studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Debug\Anti-Scammer Toolset.vbprojResolveAssemblyReference.cache
+c:\users\miodrag\documents\visual studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Debug\Anti_Scammer_Toolset.Resources.resources
+c:\users\miodrag\documents\visual studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Debug\Anti-Scammer Toolset.vbproj.GenerateResource.Cache
+c:\users\miodrag\documents\visual studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Debug\Anti-Scammer Toolset.exe
+c:\users\miodrag\documents\visual studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Debug\Anti-Scammer Toolset.xml
+c:\users\miodrag\documents\visual studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Debug\Anti-Scammer Toolset.pdb
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Debug\Anti_Scammer_Toolset.Run.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Debug\Anti_Scammer_Toolset.AntiScammerToolset.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Debug\Anti_Scammer_Toolset.Scanner.resources

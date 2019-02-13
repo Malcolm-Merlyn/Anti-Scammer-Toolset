@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{17ACC141-D97F-4C73-B98E-1402218EFD2C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Anti_Scammer_Toolset.My.MyApplication</StartupObject>
+    <RootNamespace>Anti_Scammer_Toolset</RootNamespace>
+    <AssemblyName>Anti-Scammer Toolset</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Anti-Scammer Toolset.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Anti-Scammer Toolset.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon_64.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DriverScanner.Designer.vb">
+      <DependentUpon>DriverScanner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DriverScanner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AntiScammerToolset.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AntiScammerToolset.Designer.vb">
+      <DependentUpon>AntiScammerToolset.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuclearWarning.Designer.vb">
+      <DependentUpon>NuclearWarning.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NuclearWarning.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HillaryClintonVirusForm.Designer.vb">
+      <DependentUpon>HillaryClintonVirusForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HillaryClintonVirusForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="React OS Upgrade.Designer.vb">
+      <DependentUpon>React OS Upgrade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="React OS Upgrade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Run.Designer.vb">
+      <DependentUpon>Run.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Run.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScammerKillCount.Designer.vb">
+      <DependentUpon>ScammerKillCount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ScammerKillCount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Scanner.Designer.vb">
+      <DependentUpon>Scanner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Scanner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrumpAntivirusForm.Designer.vb">
+      <DependentUpon>TrumpAntivirusForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrumpAntivirusForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VideoForm.Designer.vb">
+      <DependentUpon>VideoForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VideoForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VirusForm.Designer.vb">
+      <DependentUpon>VirusForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VirusForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows93Upgrade.Designer.vb">
+      <DependentUpon>Windows93Upgrade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Windows93Upgrade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DriverScanner.resx">
+      <DependentUpon>DriverScanner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AntiScammerToolset.resx">
+      <DependentUpon>AntiScammerToolset.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuclearWarning.resx">
+      <DependentUpon>NuclearWarning.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HillaryClintonVirusForm.resx">
+      <DependentUpon>HillaryClintonVirusForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="React OS Upgrade.resx">
+      <DependentUpon>React OS Upgrade.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Run.resx">
+      <DependentUpon>Run.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScammerKillCount.resx">
+      <DependentUpon>ScammerKillCount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Scanner.resx">
+      <DependentUpon>Scanner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrumpAntivirusForm.resx">
+      <DependentUpon>TrumpAntivirusForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VideoForm.resx">
+      <DependentUpon>VideoForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VirusForm.resx">
+      <DependentUpon>VirusForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows93Upgrade.resx">
+      <DependentUpon>Windows93Upgrade.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Subscribe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14737460059903.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9-13-2016 1-45-55 AM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_16.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <Content Include="Icon_64.ico" />
+    <None Include="Resources\CThun.gif" />
+    <None Include="Resources\Windows93Logo.jpg" />
+    <None Include="Resources\NuclearWarningYellow.jpeg" />
+    <None Include="Resources\NuclearWarningRed.jpg" />
+    <None Include="Resources\Trump_Scan.jpg" />
+    <None Include="Resources\Trump_VirusesFound.jpg" />
+    <None Include="Resources\Trump_UpgradeComputer.jpg" />
+    <None Include="Resources\Trump_HardwareCheck.jpg" />
+    <None Include="Resources\Trump_SoftwareCheck.png" />
+    <None Include="Resources\Trump_TrojanCheck.jpg" />
+    <None Include="Resources\Trump_SpywareCheck.jpg" />
+    <None Include="Resources\Trump_Firewall.jpg" />
+    <None Include="Resources\Trump_RemoveViruses.jpg" />
+    <None Include="Resources\Trump_Update.jpg" />
+    <None Include="Resources\Screen-Shot-2015-08-13-at-2.47.18-PM-1024x4991.jpg" />
+    <None Include="Resources\Screen-Shot-2015-08-13-at-2.47.18-PM-1024x499.jpg" />
+    <None Include="Resources\latest.jpg" />
+    <None Include="Resources\qpmfxe4o.bmp" />
+    <None Include="Resources\qpmfxe4o0.bmp" />
+    <None Include="Resources\Level0.png" />
+    <None Include="Resources\indian.jpg" />
+    <None Include="Resources\scam-boss1.png" />
+    <None Include="Resources\zc1920x1080_64.jpg" />
+    <None Include="Resources\Malcolm Merlyn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

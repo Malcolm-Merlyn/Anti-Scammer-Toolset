@@ -1,0 +1,53 @@
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\bin\Release\Anti-Scammer Toolset.exe
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\bin\Release\Anti-Scammer Toolset.pdb
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\bin\Release\Anti-Scammer Toolset.xml
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.AntiScammerToolset.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.Resources.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.Run.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.Scanner.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti-Scammer Toolset.vbproj.GenerateResource.Cache
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti-Scammer Toolset.exe
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti-Scammer Toolset.xml
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti-Scammer Toolset.pdb
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.DriverScanner.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.VirusForm.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.ScammerKillCount.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.HillaryClintonVirusForm.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.TrumpAntivirusForm.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.NuclearWarning.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.VideoForm.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\bin\Release\Interop.WMPLib.dll
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Interop.WMPLib.dll
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti-Scammer Toolset.vbproj.ResolveComReference.cache
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.Windows93Upgrade.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.React_OS_Upgrade.resources
+C:\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti-Scammer Toolset.vbprojResolveAssemblyReference.cache
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\bin\Release\Anti-Scammer Toolset.exe
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\bin\Release\Anti-Scammer Toolset.pdb
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\bin\Release\Anti-Scammer Toolset.xml
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\bin\Release\Interop.WMPLib.dll
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\bin\Release\AxInterop.WMPLib.dll
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti-Scammer Toolset.vbprojResolveAssemblyReference.cache
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Interop.WMPLib.dll
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\AxInterop.WMPLib.dll
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti-Scammer Toolset.vbproj.ResolveComReference.cache
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.DriverScanner.resources
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.AntiScammerToolset.resources
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.NuclearWarning.resources
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.HillaryClintonVirusForm.resources
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.Resources.resources
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.React_OS_Upgrade.resources
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.Run.resources
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.ScammerKillCount.resources
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.Scanner.resources
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.TrumpAntivirusForm.resources
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.VideoForm.resources
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.VirusForm.resources
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti_Scammer_Toolset.Windows93Upgrade.resources
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti-Scammer Toolset.vbproj.GenerateResource.Cache
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti-Scammer Toolset.vbproj.CoreCompileInputs.cache
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti-Scammer Toolset.exe
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti-Scammer Toolset.xml
+G:\Backups\C Backup 8\Users\Miodrag\Documents\Visual Studio 2015\Projects\Anti-Scammer Toolset\Anti-Scammer Toolset\obj\Release\Anti-Scammer Toolset.pdb
